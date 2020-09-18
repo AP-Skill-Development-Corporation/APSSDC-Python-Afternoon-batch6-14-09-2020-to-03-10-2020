@@ -42,5 +42,29 @@
 <hr>
 
 
+# Day-3
 
+- Operators
+- Conditional statements
+  - if
+  - if else
+  - if elif else
+  - nested if
+
+
+<hr>
+
+
+# Day-4
+
+- Iterations
+  - for loop
+  - while loop
+- Jumping statements
+  - continue
+  - break
+  - pass
+
+
+<hr>
 
