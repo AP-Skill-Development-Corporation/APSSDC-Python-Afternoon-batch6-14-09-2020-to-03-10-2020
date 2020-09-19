@@ -93,3 +93,20 @@
 - 7. Python Program to Find the Sum of Digits in a Number
 - 8. Python Program to Count the Number of Digits in a Number
 - 9. Python Program to check if a number is a Perfect number.
+# Day -6
+- Strings in Python
+- What are Strings
+- How to Create and Access Strings
+- String Operations
+- String Methods
+- Problem Solving 
+# Day - 6 Tasks
+
+- 1. find the given number is palindrome or not.
+- 2. check the given number is prime or not.
+- 3. Print the given year is leap or not.
+- 4. print the leap years in given range of years.
+- 5. print the math table as up to given number
+- 6. To check the given number is positive or not.
+- 7. Print the swaping of given actual numbers
+- 8. Program to do the basic calculator operations.
