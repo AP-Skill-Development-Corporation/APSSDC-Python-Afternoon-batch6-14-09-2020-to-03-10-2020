@@ -110,3 +110,56 @@
 - 6. To check the given number is positive or not.
 - 7. Print the swaping of given actual numbers
 - 8. Program to do the basic calculator operations.
+
+<hr>
+
+# Day-7
+- Data Structures
+  - Lists
+    - How to create list
+    - Working on builtin functions
+    - Accessing Elements
+    - Concatination
+    - Nested list calling
+    - List methods
+    - Differences between copy and assignament(=)
+    - Dynamic list
+      - Split different ways
+    
+    
+ - Today Tasks
+      
+
+- Task-1 
+    - Unique values
+        - input ---- [36,29,42,42,57,9,0,1,2,3,6,7,7,6,3,2,1]
+        - output ----[36,29,57,9,0]
+
+        
+        
+- Task-2
+    - input---  abcde36292912345ghij38993
+    - output --- 
+        - digits -0-9
+                - 3 6 2 9 2 9 1 2 3 4 5 3 8 9 9 3
+                -
+            
+            0-0
+            1-1
+            2-3
+            3-4
+            4-1
+            ..
+            ..
+            ..
+            ...
+            
+            
+- Task- 3
+    - Duplicates values remove
+        - input- [1,3,1,3,1,3,36,29]
+        - output-[1,3]
+        
+
+
+    
