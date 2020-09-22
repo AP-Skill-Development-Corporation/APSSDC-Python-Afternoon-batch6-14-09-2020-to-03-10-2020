@@ -162,4 +162,26 @@
         
 
 
+<hr>
+
+# Day-8
+- Data structures(Tuples,Sets)
+  - Tuples
+    - Tuple creation
+    - Working on builtin functions
+    - Tuple Packing and Unpacking
+    - Tuple Methods
+   - Sets
+      - Sets Creation
+      - Methods Differences explanation
+        - Differences between discard(),remove(),pop()
+        - Differences between difference() and difference_update()
+        - Differences between Insection() and Intersection_update()
+        - Union()
+        - Differences between isdisjoint(),issubset(),issuperset()
+        - Differences between symmetric differences and symmetric difference_update
+   
+  - List Tasks Explanation
+
+  
     
