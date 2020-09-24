@@ -184,4 +184,18 @@
   - List Tasks Explanation
 
   
-    
+<hr>
+
+# Day-9
+  - Data Structures (Dictionary)
+    - Dictionary
+      - Dictionary creation
+      - Dictionary Methods
+      - Dictionary Examples
+    - Dictionary Tasks Explanation
+  - File Handling
+    - Create Files with Examples
+    - Write Files with Examples
+    - Append data to Files with Examples
+    - Read Files with Examples
+  - File Handling Tasks Explanation
