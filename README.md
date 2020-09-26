@@ -199,3 +199,12 @@
     - Append data to Files with Examples
     - Read Files with Examples
   - File Handling Tasks Explanation
+  
+<hr>
+
+# Day-10
+  - Comprehensions
+    - List Comprehension with Examples
+    - Tuple Comprehension with Examples
+    - Set Comprehension with Examples
+    - Dictionary Comprehension with Examples
