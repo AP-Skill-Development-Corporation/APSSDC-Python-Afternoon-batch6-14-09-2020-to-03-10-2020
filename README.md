@@ -208,3 +208,25 @@
     - Tuple Comprehension with Examples
     - Set Comprehension with Examples
     - Dictionary Comprehension with Examples
+# Day -11
+ - Packages and Modules
+   - What is Module 
+   - What is Package
+   - User Defined & Prefined Modules
+   - User Defined & Prefined Packages
+   - Introduction to Regular Expressions
+   - Problem Solving
+ # Day - 12
+ - Regular Expressions
+    - What are Regular Expressions
+    - Use of Re
+    - Re Functions
+    - Phone number & Email Vadidations
+    - Applications of Re
+- Functional Programming
+    - Map
+    - Filter
+    - Reduce
+    - Lambda
+    - Problem Solving
+#
