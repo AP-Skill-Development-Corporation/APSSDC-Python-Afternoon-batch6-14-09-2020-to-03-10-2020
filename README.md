@@ -229,4 +229,26 @@
     - Reduce
     - Lambda
     - Problem Solving
-#
+
+<hr>
+ # Day - 13
+ - Iterators with Examples
+   - Create Own Iterator
+   - Create Infinate Iterator
+ - Generators with Examples
+ - Lambda with Examples
+
+<hr>
+ 
+ # Day - 14
+ - OOP's
+   - Class with Examples
+   - Object with Examples
+   - Constructor with Examples
+   - Inheritance with Examples
+   
+<hr>
+
+ # Day - 15
+ - Data Abstraction with Ecamples
+ - Encapsulation with Examples    
